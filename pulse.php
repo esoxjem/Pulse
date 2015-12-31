@@ -12,12 +12,9 @@
     // message bundle
     $pushMessage = array
     (
-        'provider'      => '__Test__',
-        'message'       => 'Test Message',
         'title'         => 'Test Title',
-        'target'    => 'http://www.google.com',
-        'target_type' => 'webview',
-        'image'     => 'http://www.indraneelghosh.com/img/sport/sport_318_test-201.gif'
+        'message'       => 'Test Message'
+        // add custom values here if needed
     );
 
     $fields = array
