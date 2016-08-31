@@ -11,3 +11,5 @@ PHP script that sends a GCM push message.
     );`
 
 3. Run the script.
+
+Note: This is not a GCM server and is only meant for development/testing.
